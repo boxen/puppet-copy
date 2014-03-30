@@ -1,5 +1,7 @@
 # Copy Puppet Module for Boxen
 
+[![Build Status](https://travis-ci.org/orlando/puppet-copy.png?branch=master)](https://travis-ci.org/orlando/puppet-copy)
+
 Install [Copy](http://www.copy.com), an easy way to share files
 and folders on Mac OS X.
 
